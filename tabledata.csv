@@ -1,0 +1,11 @@
+"id";"product_name";"department_name";"price";"stock_quantity"
+1;"4k TV";"Electronics";549.99;99
+2;"Mac Book";"Electronics";2399.99;23
+3;"Rokit Speacker";"Electronics";219.99;25
+4;"Bluetooth Headphones";"Electronics";49.99;0
+5;"Apple Watch";"Electronics";429.99;2
+6;"Gaming PC";"Electronics";2549.99;8
+7;"Nvidia GTX 1080";"Electronics";749.99;15
+8;"Synth";"Music";1549.99;4
+9;"Drum Machine";"Music";349.99;60
+10;"Midi Controller";"Music";199.99;100
