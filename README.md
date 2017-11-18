@@ -1,4 +1,5 @@
 # Bamazon App
+Bamazon is an Amazon like application that uses NodeJS and MySQL
 
 ## Menu options
 ![Alt text](/image1.png?raw=true "Menu")
